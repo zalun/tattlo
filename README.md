@@ -21,11 +21,11 @@ person who sent it can check later whether someone fixed it.
 
 ## Why "tattlo"
 
-The name comes from the Fourth Draft, a religion invented for this library. No such
+The name comes from the Kept Draft, a religion invented for this library. No such
 faith or myth exists. The closest real figure is Momus, the Greek god of criticism,
 thrown out of Olympus for finding fault with everything.
 
-Followers of the Fourth Draft believe the Makers have made the world four times.
+Followers of the Kept Draft believe the Makers have made the world four times.
 They threw away the first three attempts and kept the fourth, but went up to their
 workshop before they finished it. Down below, mortals trip over what they left half
 done: crooked doorsteps, doors that open the wrong way, buttons that do nothing. The
