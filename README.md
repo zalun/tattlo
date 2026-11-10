@@ -21,8 +21,8 @@ person who sent it can check later whether someone fixed it.
 
 ## Why "tattlo"
 
-The name comes from a religion invented for this library. No such faith or myth
-exists. The closest real figure is Momus, the Greek god of criticism, thrown out of
+The name comes from the Unfinished, a religion invented for this library. No such
+faith or myth exists. The closest real figure is Momus, the Greek god of criticism, thrown out of
 Olympus for finding fault with everything.
 
 Followers of the Unfinished believe the world was never completed. Its Makers built
