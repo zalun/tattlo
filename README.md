@@ -21,15 +21,15 @@ person who sent it can check later whether someone fixed it.
 
 ## Why "tattlo"
 
-The name comes from the Unfinished, a religion invented for this library. No such
-faith or myth exists. The closest real figure is Momus, the Greek god of criticism, thrown out of
-Olympus for finding fault with everything.
+The name comes from the Fourth Draft, a religion invented for this library. No such
+faith or myth exists. The closest real figure is Momus, the Greek god of criticism,
+thrown out of Olympus for finding fault with everything.
 
-Followers of the Unfinished believe the world was never completed. Its Makers built
-it in a hurry and went up to their workshop. Down below, mortals trip over what they
-left half done: crooked doorsteps, doors that open the wrong way, buttons that do
-nothing. The Makers mean well, but from their workshop they cannot see what hurts
-below.
+Followers of the Fourth Draft believe the Makers have made the world four times.
+They threw away the first three attempts and kept the fourth, but went up to their
+workshop before they finished it. Down below, mortals trip over what they left half
+done: crooked doorsteps, doors that open the wrong way, buttons that do nothing. The
+Makers mean well, but from their workshop they cannot see what hurts below.
 
 So they made Tattlo, a small, unloved god and the only one who walks between the
 world and the workshop. He sits in the corner of every room and waits. When someone
