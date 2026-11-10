@@ -1,0 +1,55 @@
+{
+	"name": "tattlo",
+	"version": "0.0.0",
+	"description": "Feedback widget and server handler: users report what is wrong, with context, and the report becomes a GitHub issue.",
+	"license": "MIT",
+	"author": "Piotr Zalewa",
+	"type": "module",
+	"sideEffects": false,
+	"files": [
+		"dist"
+	],
+	"exports": {
+		"./widget": {
+			"types": "./dist/widget/index.d.mts",
+			"import": "./dist/widget/index.mjs"
+		},
+		"./server": {
+			"types": "./dist/server/index.d.mts",
+			"import": "./dist/server/index.mjs"
+		},
+		"./github": {
+			"types": "./dist/github/index.d.mts",
+			"import": "./dist/github/index.mjs"
+		},
+		"./sheets": {
+			"types": "./dist/sheets/index.d.mts",
+			"import": "./dist/sheets/index.mjs"
+		},
+		"./s3": {
+			"types": "./dist/s3/index.d.mts",
+			"import": "./dist/s3/index.mjs"
+		},
+		"./identity/cloudflare-access": {
+			"types": "./dist/identity/cloudflare-access.d.mts",
+			"import": "./dist/identity/cloudflare-access.mjs"
+		},
+		"./package.json": "./package.json"
+	},
+	"engines": {
+		"node": ">=20"
+	},
+	"scripts": {
+		"build": "tsdown",
+		"typecheck": "tsc --noEmit",
+		"lint": "biome check .",
+		"test": "vitest run"
+	},
+	"devDependencies": {
+		"@biomejs/biome": "^2.6.6",
+		"happy-dom": "^21.0.4",
+		"tsdown": "^0.23.7",
+		"typescript": "^7.0.2",
+		"vitest": "^5.1.0"
+	}
+}
